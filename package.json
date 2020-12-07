@@ -35,6 +35,7 @@
     "react-native-unimodules": "~0.11.0",
     "react-native-vector-icons": "^7.1.0",
     "react-native-web": "~0.13.12",
+    "react-slide-routes": "^0.14.0",
     "styled-components": "^5.2.1",
     "yup": "^0.32.1"
   },
